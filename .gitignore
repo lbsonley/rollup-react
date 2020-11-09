@@ -1,0 +1,11 @@
+# folders
+node_modules
+
+# files
+yarn-error.log
+
+# macos
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
